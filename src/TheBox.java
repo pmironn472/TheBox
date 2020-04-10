@@ -26,7 +26,7 @@ class Box{
     static int width = 153;
     static int height = 124;
     static int lenght = 124;
-    static double volume = 100000;
+    static double volume;
 
     // class methods
     static void print(){
